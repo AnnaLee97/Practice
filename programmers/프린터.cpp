@@ -37,7 +37,7 @@ int solution(vector<int> priorities, int location) {
     return answer;
 }
 
--*-*-
+-+-+-
 
 #include <string>
 #include <vector>
